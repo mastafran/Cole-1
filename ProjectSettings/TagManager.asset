@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Solid
+  - Player
+  - Projectile
+  - Pickups
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BG_A
+    uniqueID: 2078937897
+    locked: 0
+  - name: BG_B
+    uniqueID: 3221401301
+    locked: 0
+  - name: Ground
+    uniqueID: 3342779091
+    locked: 0
+  - name: Under_Player
+    uniqueID: 97575091
+    locked: 0
+  - name: Player
+    uniqueID: 1198660685
+    locked: 0
+  - name: Over_Player
+    uniqueID: 3578718171
+    locked: 0
+  - name: Water
+    uniqueID: 1871280633
+    locked: 0
+  - name: FG_A
+    uniqueID: 959247075
+    locked: 0
+  - name: FG_B
+    uniqueID: 2437999957
+    locked: 0
