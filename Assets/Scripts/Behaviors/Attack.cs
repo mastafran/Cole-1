@@ -7,14 +7,14 @@ public class Attack : EntityBehavior
 
     public Transform target;// enemy nearbye. loaded as potential target only
     public float attackRange;
+    public float attackDelay = 0.5f;
     public bool attacking=false;
     private float timeElapsed = 0f;
     public Vector2 attackPosition = Vector2.zero;
     public Collider2D dmgCollider;
     public Color debugColor = Color.yellow;
     public float debugRadius = 4f;
-    public float attackDelay = 0.5f;
-
+    
     void Update() {
         var canAttack = inputState.GetButtonValue(inputButtons[0]);
 
@@ -40,16 +40,15 @@ public class Attack : EntityBehavior
     protected virtual void OnAttack(bool value) {
         attacking = value;
         if (attacking) {
-            dmgCollider.enabled = true;
-            dmgCollider = Physics2D.OverlapCircle(attackPosition, attackRange);
+            //dmgCollider.enabled = true;
+            //dmgCollider = Physics2D.OverlapCircle(attackPosition, attackRange);
             timeElapsed = 0;
         } else {
-            dmgCollider.enabled = false;
+            //dmgCollider.enabled = false;
         }
     }
 
-    private void Start()
-    {
+    private void Start() {
         dmgCollider.enabled = false;
     }
 

@@ -21,7 +21,7 @@ public class LongJump : Jump {
 
 		base.Update ();
 
-		if (canLongJump && !collisionState.standing && holdTime > longJumpDelay) {
+		if (canLongJump && !collisionState.standing && holdTime > longJumpDelay && !collisionState.onWall) {
 			var vel = body2d.velocity;
 			body2d.velocity = new Vector2(vel.x, jumpSpeed * longJumpMultiplier);
 			canLongJump = false;

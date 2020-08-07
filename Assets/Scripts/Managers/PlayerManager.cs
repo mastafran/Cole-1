@@ -4,27 +4,22 @@ using System.Collections;
 public class PlayerManager : MonoBehaviour {
 
 	private InputState inputState;
-	private Walk walkBehavior;
-	private Animator animator;
-	private CollisionState collisionState;
+    private CollisionState collisionState;
+    private Animator animator;
+    private Walk walkBehavior;	
 	private Duck duckBehavior;
     private Throw throwBehaviour;
     private Attack attackBehaviour;
 
     void Awake(){
 		inputState = GetComponent<InputState> ();
-		walkBehavior = GetComponent<Walk> ();
-		animator = GetComponent<Animator> ();
-		collisionState = GetComponent<CollisionState> ();
+        animator = GetComponent<Animator>();
+        collisionState = GetComponent<CollisionState>();
+        walkBehavior = GetComponent<Walk> ();		
 		duckBehavior = GetComponent<Duck> ();
         throwBehaviour = GetComponent<Throw>();
         attackBehaviour = GetComponent<Attack>();
     }
-
-	// Use this for initialization
-	void Start () {
-	
-	}
 	
 	// Update is called once per frame
 	void Update () {
@@ -75,6 +70,10 @@ public class PlayerManager : MonoBehaviour {
         if (walkBehavior.running && !(inputState.absVelY > 0) && !duckBehavior.ducking ) {
             walkBehavior.attacking = false;
             ChangeAnimationState(7); // run
+        }
+
+        if(collisionState.pushing) {
+            Debug.Log("Pushing");
         }
     }
 
