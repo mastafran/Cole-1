@@ -3,22 +3,22 @@ using System.Collections;
 
 public class LongJump : Jump {
 
-	public float longJumpDelay = .15f;
+	public float longJumpDelay = 0.15f;
 	public float longJumpMultiplier = 1.5f;
 	public bool canLongJump;
 	public bool isLongJumping;
 
-	protected override void Update(){
+	protected override void Update() {
 
-		var canJump = inputState.GetButtonValue (inputButtons [0]);
-		var holdTime = inputState.GetButtonHoldTime (inputButtons [0]);
+		var canJump = inputState.GetButtonValue(inputButtons[0]);
+		var holdTime = inputState.GetButtonHoldTime(inputButtons[0]);
 
-		if (!canJump)
+		if (!canJump) {
 			canLongJump = false;
-
-		if (collisionState.standing && isLongJumping)
+		}
+		if (collisionState.standing && isLongJumping) {
 			isLongJumping = false;
-
+		}
 		base.Update ();
 
 		if (canLongJump && !collisionState.standing && holdTime > longJumpDelay && !collisionState.onWall) {

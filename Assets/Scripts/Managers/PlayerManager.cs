@@ -73,7 +73,8 @@ public class PlayerManager : MonoBehaviour {
         }
 
         if(collisionState.pushing) {
-            Debug.Log("Pushing");
+            Debug.Log("Pushing");            
+            ChangeAnimationState(9); // run
         }
     }
 

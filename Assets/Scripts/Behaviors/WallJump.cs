@@ -3,14 +3,12 @@ using System.Collections;
 
 public class WallJump : EntityBehavior {
 
-	public Vector2 jumpVelocity = new Vector2(50, 200);
+	public Vector2 jumpVelocity = new Vector2(100, 100);
 	public bool jumpingOffWall;
-	public float resetDelay = .2f;
+	public float resetDelay = 0.5f;
 
 	private float timeElapsed = 0;
-
-
-	// Update is called once per frame
+	
 	void Update () {
 	
 		if (collisionState.onWall && !collisionState.standing) {
