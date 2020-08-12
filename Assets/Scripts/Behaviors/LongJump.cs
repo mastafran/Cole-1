@@ -16,12 +16,12 @@ public class LongJump : Jump {
 		if (!canJump) {
 			canLongJump = false;
 		}
-		if (collisionState.standing && isLongJumping) {
+		if (collisionState.onGround && isLongJumping) {
 			isLongJumping = false;
 		}
 		base.Update ();
 
-		if (canLongJump && !collisionState.standing && holdTime > longJumpDelay && !collisionState.onWall) {
+		if (canLongJump && !collisionState.onGround && holdTime > longJumpDelay && !collisionState.onWall) {
 			var vel = body2d.velocity;
 			body2d.velocity = new Vector2(vel.x, jumpSpeed * longJumpMultiplier);
 			canLongJump = false;

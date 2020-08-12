@@ -45,7 +45,7 @@ public class Duck : EntityBehavior {
 	void Update () {
 
 		var canDuck = inputState.GetButtonValue (inputButtons [0]);
-		if (canDuck && collisionState.standing && !ducking) {
+		if (canDuck && collisionState.onGround && !ducking) {
 			OnDuck (true);
 		} else if(ducking && !canDuck){
 			OnDuck(false);

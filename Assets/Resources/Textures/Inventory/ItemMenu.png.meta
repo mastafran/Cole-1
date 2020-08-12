@@ -4,28 +4,28 @@ TextureImporter:
   internalIDToNameTable:
   - first:
       213: 8674350508757204689
-    second: ItemMenu_0
+    second: UISquarePanelFilled
   - first:
       213: -7374452419429173966
-    second: ItemMenu_1
+    second: invSlotSelected_3
   - first:
       213: 8647519694895590382
-    second: ItemMenu_2
+    second: invSlotSelected_4
   - first:
       213: -7621515480790235929
-    second: ItemMenu_3
+    second: noSelect
   - first:
       213: 1400775670096103008
-    second: ItemMenu_4
+    second: sword
   - first:
       213: 5906869733657905019
-    second: ItemMenu_5
+    second: axe
   - first:
       213: -8804668543659432067
-    second: ItemMenu_6
+    second: spear
   - first:
       213: -7056029526812281147
-    second: ItemMenu_7
+    second: dagger
   - first:
       213: 7743774426344156764
     second: ItemMenu_8
@@ -34,7 +34,7 @@ TextureImporter:
     second: ItemMenu_9
   - first:
       213: -714066735666002353
-    second: ItemMenu_10
+    second: smlCoin_1
   - first:
       213: 7309336226727639645
     second: ItemMenu_11
@@ -43,7 +43,7 @@ TextureImporter:
     second: ItemMenu_12
   - first:
       213: 401846474361532908
-    second: ItemMenu_13
+    second: smlCoin_2
   - first:
       213: 7209181194609060437
     second: ItemMenu_14
@@ -52,28 +52,28 @@ TextureImporter:
     second: ItemMenu_15
   - first:
       213: 5756335846513931825
-    second: ItemMenu_16
+    second: smlCoin_3
   - first:
       213: -1795326063663165089
-    second: ItemMenu_17
+    second: slotCover
   - first:
       213: -2749238639251182567
-    second: ItemMenu_18
+    second: inventorySlot
   - first:
       213: -8236717713604828874
     second: ItemMenu_19
   - first:
       213: 3224544740855641774
-    second: ItemMenu_20
+    second: shuriken
   - first:
       213: 3095929785274699088
-    second: ItemMenu_21
+    second: tripple_daggers
   - first:
       213: -7855274440444908408
-    second: ItemMenu_22
+    second: bow
   - first:
       213: 1607289340794016400
-    second: ItemMenu_23
+    second: mattock
   - first:
       213: -3060391438163063195
     second: ItemMenu_24
@@ -82,28 +82,28 @@ TextureImporter:
     second: ItemMenu_25
   - first:
       213: 2913406760110811484
-    second: ItemMenu_26
+    second: smlCoin_4
   - first:
       213: 7616586583351909243
-    second: ItemMenu_27
+    second: invSlotSelected_2
   - first:
       213: -6401930326540515897
-    second: ItemMenu_28
+    second: invSlotSelected_1
   - first:
       213: 7503496134699257421
-    second: ItemMenu_29
+    second: fire
   - first:
       213: -2776778353594106584
-    second: ItemMenu_30
+    second: ice
   - first:
       213: -5506956563270923785
-    second: ItemMenu_31
+    second: litning
   - first:
       213: -8613548272793373665
-    second: ItemMenu_32
+    second: wind
   - first:
       213: 8295723745994795810
-    second: ItemMenu_33
+    second: emptyItemSphere
   - first:
       213: 5137941161290149966
     second: ItemMenu_34
@@ -118,22 +118,22 @@ TextureImporter:
     second: ItemMenu_37
   - first:
       213: -3584214948470797377
-    second: ItemMenu_38
+    second: smlCloseBtn_6
   - first:
       213: 5378782910797766203
-    second: ItemMenu_39
+    second: smlCloseBtn_5
   - first:
       213: -5840859404995279818
     second: ItemMenu_40
   - first:
       213: 3184133159321008329
-    second: ItemMenu_41
+    second: smlCloseBtn_3
   - first:
       213: -9085183589942877143
-    second: ItemMenu_42
+    second: smlCloseBtn_2
   - first:
       213: -1274898685583376805
-    second: ItemMenu_43
+    second: smlCloseBtn_1
   - first:
       213: 8243293048818353757
     second: ItemMenu_44
@@ -148,16 +148,16 @@ TextureImporter:
     second: ItemMenu_47
   - first:
       213: 5307343593111391296
-    second: ItemMenu_48
+    second: up_arrow_1
   - first:
       213: -4406074061761990117
-    second: ItemMenu_49
+    second: down_arrow_1
   - first:
       213: 5127050137308795002
-    second: ItemMenu_50
+    second: left_arrow_1
   - first:
       213: -4498312089587872538
-    second: ItemMenu_51
+    second: right_arrow_1
   - first:
       213: 8489865351156791731
     second: ItemMenu_52
@@ -172,16 +172,16 @@ TextureImporter:
     second: ItemMenu_55
   - first:
       213: 3967585555619007305
-    second: ItemMenu_56
+    second: up_arrow_2
   - first:
       213: 9087388512789125435
-    second: ItemMenu_57
+    second: down_arrow_2
   - first:
       213: -3869370890023845250
-    second: ItemMenu_58
+    second: left_arrow_2
   - first:
       213: -4816221628790352349
-    second: ItemMenu_59
+    second: right_arrow_2
   - first:
       213: 7185707993597177544
     second: ItemMenu_60
@@ -196,16 +196,16 @@ TextureImporter:
     second: ItemMenu_63
   - first:
       213: -5963788562616643832
-    second: ItemMenu_64
+    second: up_arrow_3
   - first:
       213: 5088538863524536336
-    second: ItemMenu_65
+    second: down_arrow_3
   - first:
       213: 5723439393385042388
-    second: ItemMenu_66
+    second: left_arrow_3
   - first:
       213: -345683409293319376
-    second: ItemMenu_67
+    second: right_arrow_3
   - first:
       213: -3427982864123735051
     second: ItemMenu_68
@@ -244,106 +244,106 @@ TextureImporter:
     second: ItemMenu_79
   - first:
       213: -2160476585083015464
-    second: ItemMenu_80
+    second: A_Button_1
   - first:
       213: 8992573518280513907
     second: ItemMenu_81
   - first:
       213: 1713426537085037163
-    second: ItemMenu_82
+    second: A_Button_2
   - first:
       213: -144225685735727334
     second: ItemMenu_83
   - first:
       213: -3723646441964195101
-    second: ItemMenu_84
+    second: A_Button_3
   - first:
       213: -4199475464062670533
     second: ItemMenu_85
   - first:
       213: -5567664226444395653
-    second: ItemMenu_86
+    second: A_Button_4
   - first:
       213: 4720248109837753337
     second: ItemMenu_87
   - first:
       213: -5145490629535666001
-    second: ItemMenu_88
+    second: A_Button_5
   - first:
       213: 858124838877937237
     second: ItemMenu_89
   - first:
       213: 3710800090749681277
-    second: ItemMenu_90
+    second: A_Button_6
   - first:
       213: -6371183641308094303
     second: ItemMenu_91
   - first:
       213: -1137769427501569580
-    second: ItemMenu_92
+    second: weaponbar
   - first:
       213: -727930136666074726
-    second: ItemMenu_93
+    second: lrgCloseBtn_4
   - first:
       213: -2472685094659278743
-    second: ItemMenu_94
+    second: lrgCloseBtn_3
   - first:
       213: 605263815753642183
-    second: ItemMenu_95
+    second: lrgCloseBtn_2
   - first:
       213: 8948916735478075847
-    second: ItemMenu_96
+    second: lrgCloseBtn_1
   - first:
       213: -3033774456742110253
-    second: ItemMenu_97
+    second: itemBar
   - first:
       213: 1583623935135377567
-    second: ItemMenu_98
+    second: UIRectPanelFilled
   - first:
       213: -9182102141876687920
-    second: ItemMenu_99
+    second: inventoryBar
   - first:
       213: 3492373923295354213
-    second: ItemMenu_100
+    second: equipBar
   - first:
       213: -670036354841789878
-    second: ItemMenu_101
+    second: ItemMenu_spellsBar
   - first:
       213: 8459706577947215404
-    second: ItemMenu_102
+    second: blankBar
   - first:
       213: -2872572295251939975
-    second: ItemMenu_103
+    second: modalPanel
   - first:
       213: -7016186907284119660
-    second: ItemMenu_104
+    second: UISquarePanel
   - first:
       213: 2511479917653528542
-    second: ItemMenu_105
+    second: UIRectPanel
   - first:
       213: 6386506541270951561
-    second: ItemMenu_0
+    second: UISquarePanelFilled
   - first:
       213: -2922511946840202302
-    second: ItemMenu_1
+    second: invSlotSelected_3
   - first:
       213: 8009917010016692572
-    second: ItemMenu_2
+    second: invSlotSelected_4
   - first:
       213: -3219285500660207698
-    second: ItemMenu_3
+    second: noSelect
   - first:
       213: 8917494959206029207
-    second: ItemMenu_4
+    second: sword
   - first:
       213: 6276738271807476920
-    second: ItemMenu_5
+    second: axe
   - first:
       213: 4442960181402833925
-    second: ItemMenu_6
+    second: spear
   - first:
       213: -7706869161949069925
-    second: ItemMenu_7
+    second: dagger
   - first:
       213: 8480478566069451396
     second: ItemMenu_8
@@ -352,7 +352,7 @@ TextureImporter:
     second: ItemMenu_9
   - first:
       213: -8479144116155114177
-    second: ItemMenu_10
+    second: smlCoin_1
   - first:
       213: 7792237410747013463
     second: ItemMenu_11
@@ -361,7 +361,7 @@ TextureImporter:
     second: ItemMenu_12
   - first:
       213: 6348746735239666097
-    second: ItemMenu_13
+    second: smlCoin_2
   - first:
       213: 5160956776336986507
     second: ItemMenu_14
@@ -370,28 +370,28 @@ TextureImporter:
     second: ItemMenu_15
   - first:
       213: -8289478443174937552
-    second: ItemMenu_16
+    second: smlCoin_3
   - first:
       213: 3040386150924401593
-    second: ItemMenu_17
+    second: slotCover
   - first:
       213: -3564002371156217995
-    second: ItemMenu_18
+    second: inventorySlot
   - first:
       213: 7178794365615028755
     second: ItemMenu_19
   - first:
       213: -5423965601110375430
-    second: ItemMenu_20
+    second: shuriken
   - first:
       213: 7343169294529503838
-    second: ItemMenu_21
+    second: tripple_daggers
   - first:
       213: -656448631577528249
-    second: ItemMenu_22
+    second: bow
   - first:
       213: -5628989734912169874
-    second: ItemMenu_23
+    second: mattock
   - first:
       213: -5449512837853176054
     second: ItemMenu_24
@@ -400,28 +400,28 @@ TextureImporter:
     second: ItemMenu_25
   - first:
       213: 8595422734446748648
-    second: ItemMenu_26
+    second: smlCoin_4
   - first:
       213: 3252935376589614525
-    second: ItemMenu_27
+    second: invSlotSelected_2
   - first:
       213: -8142402673140088455
-    second: ItemMenu_28
+    second: invSlotSelected_1
   - first:
       213: 853572754449601608
-    second: ItemMenu_29
+    second: fire
   - first:
       213: -354892547553323514
-    second: ItemMenu_30
+    second: ice
   - first:
       213: 1467816755013587033
-    second: ItemMenu_31
+    second: litning
   - first:
       213: 4125393352598807145
-    second: ItemMenu_32
+    second: wind
   - first:
       213: -8077075943421229014
-    second: ItemMenu_33
+    second: emptyItemSphere
   - first:
       213: -397533908909766085
     second: ItemMenu_34
@@ -436,22 +436,22 @@ TextureImporter:
     second: ItemMenu_37
   - first:
       213: 5834564746539669352
-    second: ItemMenu_38
+    second: smlCloseBtn_6
   - first:
       213: -3920175722125673631
-    second: ItemMenu_39
+    second: smlCloseBtn_5
   - first:
       213: 2876038971054409536
     second: ItemMenu_40
   - first:
       213: 5870665422446932439
-    second: ItemMenu_41
+    second: smlCloseBtn_3
   - first:
       213: -3688988234812530958
-    second: ItemMenu_42
+    second: smlCloseBtn_2
   - first:
       213: -3490840375785231001
-    second: ItemMenu_43
+    second: smlCloseBtn_1
   - first:
       213: 4572393290228422871
     second: ItemMenu_44
@@ -466,16 +466,16 @@ TextureImporter:
     second: ItemMenu_47
   - first:
       213: -1494664061892935631
-    second: ItemMenu_48
+    second: up_arrow_1
   - first:
       213: 5118709006359730180
-    second: ItemMenu_49
+    second: down_arrow_1
   - first:
       213: 89206635308163981
-    second: ItemMenu_50
+    second: left_arrow_1
   - first:
       213: 9041746655620479864
-    second: ItemMenu_51
+    second: right_arrow_1
   - first:
       213: -7481390799473482934
     second: ItemMenu_52
@@ -490,16 +490,16 @@ TextureImporter:
     second: ItemMenu_55
   - first:
       213: -1778007432288401687
-    second: ItemMenu_56
+    second: up_arrow_2
   - first:
       213: 5973874906198287265
-    second: ItemMenu_57
+    second: down_arrow_2
   - first:
       213: -4541404873149634100
-    second: ItemMenu_58
+    second: left_arrow_2
   - first:
       213: 1699222789172504880
-    second: ItemMenu_59
+    second: right_arrow_2
   - first:
       213: -4699816816393186365
     second: ItemMenu_60
@@ -514,16 +514,16 @@ TextureImporter:
     second: ItemMenu_63
   - first:
       213: -2290551482618723186
-    second: ItemMenu_64
+    second: up_arrow_3
   - first:
       213: 6011252990823607020
-    second: ItemMenu_65
+    second: down_arrow_3
   - first:
       213: 1386910291562578219
-    second: ItemMenu_66
+    second: left_arrow_3
   - first:
       213: 5473802861522984983
-    second: ItemMenu_67
+    second: right_arrow_3
   - first:
       213: -2644875727583326642
     second: ItemMenu_68
@@ -562,82 +562,130 @@ TextureImporter:
     second: ItemMenu_79
   - first:
       213: -9153790046162256502
-    second: ItemMenu_80
+    second: A_Button_1
   - first:
       213: -1748066096155062760
     second: ItemMenu_81
   - first:
       213: -655189553646886041
-    second: ItemMenu_82
+    second: A_Button_2
   - first:
       213: 7469157215341880372
     second: ItemMenu_83
   - first:
       213: -1794893920283765189
-    second: ItemMenu_84
+    second: A_Button_3
   - first:
       213: 7665541041039770251
     second: ItemMenu_85
   - first:
       213: 5948384575512041316
-    second: ItemMenu_86
+    second: A_Button_4
   - first:
       213: 1470930560138677412
     second: ItemMenu_87
   - first:
       213: -5531302096857282435
-    second: ItemMenu_88
+    second: A_Button_5
   - first:
       213: -436200743212751892
     second: ItemMenu_89
   - first:
       213: -4935384172555713838
-    second: ItemMenu_90
+    second: A_Button_6
   - first:
       213: -2814763244477339240
     second: ItemMenu_91
   - first:
       213: -2616741970539800401
-    second: ItemMenu_92
+    second: weaponbar
   - first:
       213: -4973907690235469664
-    second: ItemMenu_93
+    second: lrgCloseBtn_4
   - first:
       213: 6743392970945982424
-    second: ItemMenu_94
+    second: lrgCloseBtn_3
   - first:
       213: -7654903334318241063
-    second: ItemMenu_95
+    second: lrgCloseBtn_2
   - first:
       213: -4132573590363878883
-    second: ItemMenu_96
+    second: lrgCloseBtn_1
   - first:
       213: 3837641028013094167
-    second: ItemMenu_97
+    second: itemBar
   - first:
       213: 4967230747989055845
-    second: ItemMenu_98
+    second: UIRectPanelFilled
   - first:
       213: 8778976694396755046
-    second: ItemMenu_99
+    second: inventoryBar
   - first:
       213: 6302557335663990026
-    second: ItemMenu_100
+    second: equipBar
   - first:
       213: -2607866984707010836
-    second: ItemMenu_101
+    second: ItemMenu_spellsBar
   - first:
       213: -226225186983972075
-    second: ItemMenu_102
+    second: blankBar
   - first:
       213: 7511516778197538588
-    second: ItemMenu_103
+    second: modalPanel
   - first:
       213: -8473664334412215931
-    second: ItemMenu_104
+    second: UISquarePanel
   - first:
       213: 2035530770717879538
-    second: ItemMenu_105
+    second: UIRectPanel
+  - first:
+      213: 7767079666448496582
+    second: lrgStar
+  - first:
+      213: 9094186394804660488
+    second: medStar
+  - first:
+      213: -8544857137833999948
+    second: smlStar
+  - first:
+      213: -8887296356393803660
+    second: sound_1
+  - first:
+      213: -5040155795295315375
+    second: sound_2
+  - first:
+      213: 4953236431555533699
+    second: ItemMenu_111berry
+  - first:
+      213: -2956115216677257046
+    second: lifesegmentStart
+  - first:
+      213: 7558684838473619794
+    second: lifeSegment
+  - first:
+      213: 7900839577162447183
+    second: glove
+  - first:
+      213: -4317390620588023018
+    second: book
+  - first:
+      213: -8471232241068088444
+    second: scroll
+  - first:
+      213: 3929001941772235417
+    second: ItemMenu_117
+  - first:
+      213: -6714198382025050452
+    second: ItemMenu_118
+  - first:
+      213: -4979222943240881246
+    second: gem
+  - first:
+      213: 8661965101031826671
+    second: ItemMenu_120
+  - first:
+      213: -7852705519213388141
+    second: meterBrackets
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -761,7 +809,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: ItemMenu_0
+      name: UISquarePanelFilled
       rect:
         serializedVersion: 2
         x: 2
@@ -769,7 +817,7 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -782,7 +830,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ItemMenu_1
+      name: invSlotSelected_3
       rect:
         serializedVersion: 2
         x: 132
@@ -790,7 +838,7 @@ TextureImporter:
         width: 31
         height: 31
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -803,7 +851,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ItemMenu_2
+      name: invSlotSelected_4
       rect:
         serializedVersion: 2
         x: 165
@@ -811,7 +859,7 @@ TextureImporter:
         width: 31
         height: 31
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -824,7 +872,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ItemMenu_3
+      name: noSelect
       rect:
         serializedVersion: 2
         x: 198
@@ -832,7 +880,7 @@ TextureImporter:
         width: 29
         height: 29
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -845,7 +893,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ItemMenu_4
+      name: sword
       rect:
         serializedVersion: 2
         x: 229
@@ -853,7 +901,7 @@ TextureImporter:
         width: 25
         height: 25
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -866,7 +914,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ItemMenu_5
+      name: axe
       rect:
         serializedVersion: 2
         x: 256
@@ -874,7 +922,7 @@ TextureImporter:
         width: 25
         height: 25
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -887,7 +935,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ItemMenu_6
+      name: spear
       rect:
         serializedVersion: 2
         x: 283
@@ -895,7 +943,7 @@ TextureImporter:
         width: 25
         height: 25
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -908,7 +956,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ItemMenu_7
+      name: dagger
       rect:
         serializedVersion: 2
         x: 310
@@ -916,7 +964,7 @@ TextureImporter:
         width: 25
         height: 25
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -937,7 +985,7 @@ TextureImporter:
         width: 21
         height: 21
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -958,7 +1006,7 @@ TextureImporter:
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -971,7 +1019,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ItemMenu_10
+      name: smlCoin_1
       rect:
         serializedVersion: 2
         x: 379
@@ -979,7 +1027,7 @@ TextureImporter:
         width: 11
         height: 11
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1000,7 +1048,7 @@ TextureImporter:
         width: 21
         height: 21
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1021,7 +1069,7 @@ TextureImporter:
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1034,7 +1082,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ItemMenu_13
+      name: smlCoin_2
       rect:
         serializedVersion: 2
         x: 434
@@ -1042,7 +1090,7 @@ TextureImporter:
         width: 11
         height: 11
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1063,7 +1111,7 @@ TextureImporter:
         width: 21
         height: 21
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1084,7 +1132,7 @@ TextureImporter:
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1097,7 +1145,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ItemMenu_16
+      name: smlCoin_3
       rect:
         serializedVersion: 2
         x: 489
@@ -1105,7 +1153,7 @@ TextureImporter:
         width: 11
         height: 11
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1118,7 +1166,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ItemMenu_17
+      name: slotCover
       rect:
         serializedVersion: 2
         x: 132
@@ -1126,7 +1174,7 @@ TextureImporter:
         width: 31
         height: 31
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1139,7 +1187,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ItemMenu_18
+      name: inventorySlot
       rect:
         serializedVersion: 2
         x: 165
@@ -1147,7 +1195,7 @@ TextureImporter:
         width: 31
         height: 31
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1168,7 +1216,7 @@ TextureImporter:
         width: 29
         height: 29
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1181,7 +1229,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ItemMenu_20
+      name: shuriken
       rect:
         serializedVersion: 2
         x: 229
@@ -1189,7 +1237,7 @@ TextureImporter:
         width: 25
         height: 25
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1202,7 +1250,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ItemMenu_21
+      name: tripple_daggers
       rect:
         serializedVersion: 2
         x: 256
@@ -1210,7 +1258,7 @@ TextureImporter:
         width: 25
         height: 25
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1223,7 +1271,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ItemMenu_22
+      name: bow
       rect:
         serializedVersion: 2
         x: 283
@@ -1231,7 +1279,7 @@ TextureImporter:
         width: 25
         height: 25
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1244,7 +1292,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ItemMenu_23
+      name: mattock
       rect:
         serializedVersion: 2
         x: 310
@@ -1252,7 +1300,7 @@ TextureImporter:
         width: 25
         height: 25
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1273,7 +1321,7 @@ TextureImporter:
         width: 21
         height: 21
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1294,7 +1342,7 @@ TextureImporter:
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1307,7 +1355,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ItemMenu_26
+      name: smlCoin_4
       rect:
         serializedVersion: 2
         x: 379
@@ -1315,7 +1363,7 @@ TextureImporter:
         width: 11
         height: 11
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1328,7 +1376,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ItemMenu_27
+      name: invSlotSelected_2
       rect:
         serializedVersion: 2
         x: 132
@@ -1336,7 +1384,7 @@ TextureImporter:
         width: 31
         height: 31
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1349,7 +1397,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ItemMenu_28
+      name: invSlotSelected_1
       rect:
         serializedVersion: 2
         x: 165
@@ -1357,7 +1405,7 @@ TextureImporter:
         width: 31
         height: 31
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1370,7 +1418,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ItemMenu_29
+      name: fire
       rect:
         serializedVersion: 2
         x: 229
@@ -1378,7 +1426,7 @@ TextureImporter:
         width: 25
         height: 25
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1391,7 +1439,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ItemMenu_30
+      name: ice
       rect:
         serializedVersion: 2
         x: 256
@@ -1399,7 +1447,7 @@ TextureImporter:
         width: 25
         height: 25
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1412,7 +1460,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ItemMenu_31
+      name: litning
       rect:
         serializedVersion: 2
         x: 283
@@ -1420,7 +1468,7 @@ TextureImporter:
         width: 25
         height: 25
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1433,7 +1481,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ItemMenu_32
+      name: wind
       rect:
         serializedVersion: 2
         x: 310
@@ -1441,7 +1489,7 @@ TextureImporter:
         width: 25
         height: 25
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1454,7 +1502,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ItemMenu_33
+      name: emptyItemSphere
       rect:
         serializedVersion: 2
         x: 229
@@ -1462,7 +1510,7 @@ TextureImporter:
         width: 25
         height: 25
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1483,7 +1531,7 @@ TextureImporter:
         width: 25
         height: 25
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1504,7 +1552,7 @@ TextureImporter:
         width: 25
         height: 25
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1525,7 +1573,7 @@ TextureImporter:
         width: 25
         height: 25
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1546,7 +1594,7 @@ TextureImporter:
         width: 29
         height: 29
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1559,7 +1607,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ItemMenu_38
+      name: smlCloseBtn_6
       rect:
         serializedVersion: 2
         x: 33
@@ -1567,7 +1615,7 @@ TextureImporter:
         width: 7
         height: 7
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1580,7 +1628,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ItemMenu_39
+      name: smlCloseBtn_5
       rect:
         serializedVersion: 2
         x: 42
@@ -1588,7 +1636,7 @@ TextureImporter:
         width: 7
         height: 7
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1609,7 +1657,7 @@ TextureImporter:
         width: 7
         height: 7
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1622,7 +1670,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ItemMenu_41
+      name: smlCloseBtn_3
       rect:
         serializedVersion: 2
         x: 60
@@ -1630,7 +1678,7 @@ TextureImporter:
         width: 7
         height: 7
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1643,7 +1691,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ItemMenu_42
+      name: smlCloseBtn_2
       rect:
         serializedVersion: 2
         x: 69
@@ -1651,7 +1699,7 @@ TextureImporter:
         width: 7
         height: 7
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1664,7 +1712,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ItemMenu_43
+      name: smlCloseBtn_1
       rect:
         serializedVersion: 2
         x: 78
@@ -1672,7 +1720,7 @@ TextureImporter:
         width: 7
         height: 7
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1693,7 +1741,7 @@ TextureImporter:
         width: 7
         height: 7
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1714,7 +1762,7 @@ TextureImporter:
         width: 7
         height: 7
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1735,7 +1783,7 @@ TextureImporter:
         width: 7
         height: 7
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1756,7 +1804,7 @@ TextureImporter:
         width: 7
         height: 7
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1769,7 +1817,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ItemMenu_48
+      name: up_arrow_1
       rect:
         serializedVersion: 2
         x: 124
@@ -1777,7 +1825,7 @@ TextureImporter:
         width: 7
         height: 7
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1790,7 +1838,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ItemMenu_49
+      name: down_arrow_1
       rect:
         serializedVersion: 2
         x: 133
@@ -1798,7 +1846,7 @@ TextureImporter:
         width: 7
         height: 7
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1811,7 +1859,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ItemMenu_50
+      name: left_arrow_1
       rect:
         serializedVersion: 2
         x: 142
@@ -1819,7 +1867,7 @@ TextureImporter:
         width: 7
         height: 7
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1832,7 +1880,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ItemMenu_51
+      name: right_arrow_1
       rect:
         serializedVersion: 2
         x: 151
@@ -1840,7 +1888,7 @@ TextureImporter:
         width: 7
         height: 7
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1861,7 +1909,7 @@ TextureImporter:
         width: 7
         height: 7
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1882,7 +1930,7 @@ TextureImporter:
         width: 7
         height: 7
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1903,7 +1951,7 @@ TextureImporter:
         width: 7
         height: 7
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1924,7 +1972,7 @@ TextureImporter:
         width: 7
         height: 7
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1937,7 +1985,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ItemMenu_56
+      name: up_arrow_2
       rect:
         serializedVersion: 2
         x: 196
@@ -1945,7 +1993,7 @@ TextureImporter:
         width: 7
         height: 7
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1958,7 +2006,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ItemMenu_57
+      name: down_arrow_2
       rect:
         serializedVersion: 2
         x: 205
@@ -1966,7 +2014,7 @@ TextureImporter:
         width: 7
         height: 7
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1979,7 +2027,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ItemMenu_58
+      name: left_arrow_2
       rect:
         serializedVersion: 2
         x: 214
@@ -1987,7 +2035,7 @@ TextureImporter:
         width: 7
         height: 7
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2000,7 +2048,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ItemMenu_59
+      name: right_arrow_2
       rect:
         serializedVersion: 2
         x: 223
@@ -2008,7 +2056,7 @@ TextureImporter:
         width: 7
         height: 7
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2029,7 +2077,7 @@ TextureImporter:
         width: 7
         height: 7
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2050,7 +2098,7 @@ TextureImporter:
         width: 7
         height: 7
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2071,7 +2119,7 @@ TextureImporter:
         width: 7
         height: 7
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2092,7 +2140,7 @@ TextureImporter:
         width: 7
         height: 7
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2105,7 +2153,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ItemMenu_64
+      name: up_arrow_3
       rect:
         serializedVersion: 2
         x: 268
@@ -2113,7 +2161,7 @@ TextureImporter:
         width: 7
         height: 7
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2126,7 +2174,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ItemMenu_65
+      name: down_arrow_3
       rect:
         serializedVersion: 2
         x: 277
@@ -2134,7 +2182,7 @@ TextureImporter:
         width: 7
         height: 7
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2147,7 +2195,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ItemMenu_66
+      name: left_arrow_3
       rect:
         serializedVersion: 2
         x: 286
@@ -2155,7 +2203,7 @@ TextureImporter:
         width: 7
         height: 7
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2168,7 +2216,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ItemMenu_67
+      name: right_arrow_3
       rect:
         serializedVersion: 2
         x: 295
@@ -2176,7 +2224,7 @@ TextureImporter:
         width: 7
         height: 7
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2197,7 +2245,7 @@ TextureImporter:
         width: 9
         height: 9
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2218,7 +2266,7 @@ TextureImporter:
         width: 9
         height: 9
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2239,7 +2287,7 @@ TextureImporter:
         width: 9
         height: 9
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2260,7 +2308,7 @@ TextureImporter:
         width: 9
         height: 9
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2281,7 +2329,7 @@ TextureImporter:
         width: 9
         height: 9
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2302,7 +2350,7 @@ TextureImporter:
         width: 9
         height: 9
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2323,7 +2371,7 @@ TextureImporter:
         width: 9
         height: 9
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2344,7 +2392,7 @@ TextureImporter:
         width: 9
         height: 9
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2365,7 +2413,7 @@ TextureImporter:
         width: 9
         height: 9
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2386,7 +2434,7 @@ TextureImporter:
         width: 9
         height: 9
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2407,7 +2455,7 @@ TextureImporter:
         width: 9
         height: 9
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2428,7 +2476,7 @@ TextureImporter:
         width: 9
         height: 9
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2441,7 +2489,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ItemMenu_80
+      name: A_Button_1
       rect:
         serializedVersion: 2
         x: 33
@@ -2449,7 +2497,7 @@ TextureImporter:
         width: 9
         height: 9
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2470,7 +2518,7 @@ TextureImporter:
         width: 9
         height: 9
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2483,7 +2531,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ItemMenu_82
+      name: A_Button_2
       rect:
         serializedVersion: 2
         x: 55
@@ -2491,7 +2539,7 @@ TextureImporter:
         width: 9
         height: 9
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2512,7 +2560,7 @@ TextureImporter:
         width: 9
         height: 9
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2525,7 +2573,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ItemMenu_84
+      name: A_Button_3
       rect:
         serializedVersion: 2
         x: 77
@@ -2533,7 +2581,7 @@ TextureImporter:
         width: 9
         height: 9
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2554,7 +2602,7 @@ TextureImporter:
         width: 9
         height: 9
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2567,7 +2615,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ItemMenu_86
+      name: A_Button_4
       rect:
         serializedVersion: 2
         x: 99
@@ -2575,7 +2623,7 @@ TextureImporter:
         width: 9
         height: 9
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2596,7 +2644,7 @@ TextureImporter:
         width: 9
         height: 9
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2609,7 +2657,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ItemMenu_88
+      name: A_Button_5
       rect:
         serializedVersion: 2
         x: 121
@@ -2617,7 +2665,7 @@ TextureImporter:
         width: 9
         height: 9
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2638,7 +2686,7 @@ TextureImporter:
         width: 9
         height: 9
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2651,7 +2699,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ItemMenu_90
+      name: A_Button_6
       rect:
         serializedVersion: 2
         x: 143
@@ -2659,7 +2707,7 @@ TextureImporter:
         width: 9
         height: 9
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2680,7 +2728,7 @@ TextureImporter:
         width: 9
         height: 9
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2693,7 +2741,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ItemMenu_92
+      name: weaponbar
       rect:
         serializedVersion: 2
         x: 2
@@ -2701,7 +2749,7 @@ TextureImporter:
         width: 128
         height: 13
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2714,7 +2762,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ItemMenu_93
+      name: lrgCloseBtn_4
       rect:
         serializedVersion: 2
         x: 132
@@ -2722,7 +2770,7 @@ TextureImporter:
         width: 9
         height: 9
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2735,7 +2783,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ItemMenu_94
+      name: lrgCloseBtn_3
       rect:
         serializedVersion: 2
         x: 143
@@ -2743,7 +2791,7 @@ TextureImporter:
         width: 9
         height: 9
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2756,7 +2804,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ItemMenu_95
+      name: lrgCloseBtn_2
       rect:
         serializedVersion: 2
         x: 154
@@ -2764,7 +2812,7 @@ TextureImporter:
         width: 9
         height: 9
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2777,7 +2825,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ItemMenu_96
+      name: lrgCloseBtn_1
       rect:
         serializedVersion: 2
         x: 165
@@ -2785,7 +2833,7 @@ TextureImporter:
         width: 9
         height: 9
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2798,7 +2846,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ItemMenu_97
+      name: itemBar
       rect:
         serializedVersion: 2
         x: 176
@@ -2806,7 +2854,7 @@ TextureImporter:
         width: 128
         height: 13
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2819,7 +2867,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ItemMenu_98
+      name: UIRectPanelFilled
       rect:
         serializedVersion: 2
         x: 2
@@ -2827,7 +2875,7 @@ TextureImporter:
         width: 190
         height: 66
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2840,7 +2888,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ItemMenu_99
+      name: inventoryBar
       rect:
         serializedVersion: 2
         x: 194
@@ -2848,7 +2896,7 @@ TextureImporter:
         width: 128
         height: 13
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2861,7 +2909,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ItemMenu_100
+      name: equipBar
       rect:
         serializedVersion: 2
         x: 194
@@ -2869,7 +2917,7 @@ TextureImporter:
         width: 128
         height: 13
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2882,7 +2930,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ItemMenu_101
+      name: ItemMenu_spellsBar
       rect:
         serializedVersion: 2
         x: 2
@@ -2890,7 +2938,7 @@ TextureImporter:
         width: 190
         height: 13
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2903,7 +2951,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ItemMenu_102
+      name: blankBar
       rect:
         serializedVersion: 2
         x: 194
@@ -2911,7 +2959,7 @@ TextureImporter:
         width: 190
         height: 13
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2924,7 +2972,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ItemMenu_103
+      name: modalPanel
       rect:
         serializedVersion: 2
         x: 2
@@ -2932,7 +2980,7 @@ TextureImporter:
         width: 92
         height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2945,7 +2993,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ItemMenu_104
+      name: UISquarePanel
       rect:
         serializedVersion: 2
         x: 2
@@ -2953,7 +3001,7 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2966,15 +3014,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ItemMenu_105
+      name: UIRectPanel
       rect:
         serializedVersion: 2
-        x: 132
-        y: 118
+        x: 133
+        y: 119
         width: 190
         height: 66
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2982,6 +3030,342 @@ TextureImporter:
       bones: []
       spriteID: 2fc24068378af3c10800000000000000
       internalID: 2035530770717879538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lrgStar
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 373
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c772dc0ec53acb60800000000000000
+      internalID: 7767079666448496582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medStar
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 373
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 809a58fc75a053e70800000000000000
+      internalID: 9094186394804660488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smlStar
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 373
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b181faa4b19a6980800000000000000
+      internalID: -8544857137833999948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound_1
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 357
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 470268ffc0bf9a480800000000000000
+      internalID: -8887296356393803660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound_2
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 357
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15adbc01205cd0ab0800000000000000
+      internalID: -5040155795295315375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItemMenu_111berry
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 236
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b14678a4e6db440800000000000000
+      internalID: 4953236431555533699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lifesegmentStart
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 243
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa043d26fd4c9f6d0800000000000000
+      internalID: -2956115216677257046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lifeSegment
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 243
+        width: 3
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 259d95e10d7d5e860800000000000000
+      internalID: 7558684838473619794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glove
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 234
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f497d182cbb65ad60800000000000000
+      internalID: 7900839577162447183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: book
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 202
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6136f37ea1c8514c0800000000000000
+      internalID: -4317390620588023018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scroll
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 201
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 483ec45c823207a80800000000000000
+      internalID: -8471232241068088444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItemMenu_117
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 186
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9927725037e968630800000000000000
+      internalID: 3929001941772235417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItemMenu_118
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 186
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca6f4e7152062d2a0800000000000000
+      internalID: -6714198382025050452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gem
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 186
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2abf6aa3d1f36eab0800000000000000
+      internalID: -4979222943240881246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItemMenu_120
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 186
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe425d7cd5b753870800000000000000
+      internalID: 8661965101031826671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meterBrackets
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 239
+        width: 35
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39e59898fe5950390800000000000000
+      internalID: -7852705519213388141
       vertices: []
       indices: 
       edges: []

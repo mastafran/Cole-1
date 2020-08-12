@@ -21,7 +21,7 @@ public class Jump : EntityBehavior {
 		var canJump = inputState.GetButtonValue (inputButtons [0]);
 		var holdTime = inputState.GetButtonHoldTime (inputButtons [0]);
 
-		if (collisionState.standing) {
+		if (collisionState.onGround) {
 			if (canJump && holdTime < .1f) {
 				jumpsRemaining = jumpCount - 1;
 				OnJump ();

@@ -11,7 +11,7 @@ public class WallJump : EntityBehavior {
 	
 	void Update () {
 	
-		if (collisionState.onWall && !collisionState.standing) {
+		if (collisionState.onWall && !collisionState.onGround) {
 
 			var canJump = inputState.GetButtonValue(inputButtons[0]);
 

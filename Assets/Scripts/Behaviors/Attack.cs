@@ -11,7 +11,7 @@ public class Attack : EntityBehavior
     public bool attacking=false;
     private float timeElapsed = 0f;
     public Vector2 attackPosition = Vector2.zero;
-    public Collider2D dmgCollider;
+    //public Collider2D dmgCollider;
     public Color debugColor = Color.yellow;
     public float debugRadius = 4f;
     
@@ -49,17 +49,17 @@ public class Attack : EntityBehavior
     }
 
     private void Start() {
-        dmgCollider.enabled = false;
+        //dmgCollider.enabled = false;
     }
 
-    void OnDrawGizmos() {
-        Gizmos.color = debugColor;
-        var pos = attackPosition;
-        if (inputState != null)
-            pos.x *= (float)inputState.direction;
-        pos.x += transform.position.x;
-        pos.y += transform.position.y;
-        Gizmos.DrawWireSphere(pos, debugRadius);
-    }
+    //void OnDrawGizmos() {
+    //    Gizmos.color = debugColor;
+    //    var pos = attackPosition;
+    //    if (inputState != null)
+    //        pos.x *= (float)inputState.direction;
+    //    pos.x += transform.position.x;
+    //    pos.y += transform.position.y;
+    //    Gizmos.DrawWireSphere(pos, debugRadius);
+    //}
 
 }

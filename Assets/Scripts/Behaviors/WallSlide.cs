@@ -7,32 +7,25 @@ public class WallSlide : StickToWall {
 	public float slideMultiplier = 5f;
 	public GameObject sparksPrefab;
 	public float sparksDelay = .5f;
-
 	private float timeElapsed = 0f;
 
-	// Update is called once per frame
 	override protected void Update () {
 		base.Update ();
-
-		if (onWallDetected && !collisionState.standing) {
-			var velY = slideVelocity;
-
+		if (onWallDetected && !collisionState.onGround) {
+			float velY = slideVelocity;
 			if(inputState.GetButtonValue(inputButtons[0]))
 				velY *= slideMultiplier;
 
 			body2d.velocity = new Vector2(body2d.velocity.x, velY);
 
-			if(timeElapsed > sparksDelay)
-            {
+			if(timeElapsed > sparksDelay) {
 
-				var dust = Instantiate(sparksPrefab);
-				var pos = transform.position;
+				GameObject dust = Instantiate(sparksPrefab);
+				Vector3 pos = transform.position;
 				dust.transform.position = pos;
 				dust.transform.localScale = transform.localScale;
 				timeElapsed = 0;
-
 			}
-
 			timeElapsed += Time.deltaTime;
 		}
 	}

@@ -15,7 +15,7 @@ public class Item
     public string itemName;
     public int itemID;
     public string itemInfo;
-    public Texture2D itemIcon;
+    public Sprite itemIcon;
     public int itemPower;
     public float itemSpeed;
     public int itemCost;

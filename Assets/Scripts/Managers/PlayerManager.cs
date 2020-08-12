@@ -23,7 +23,7 @@ public class PlayerManager : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		if (collisionState.standing) {
+		if (collisionState.onGround) {
             walkBehavior.attacking = false;
             ChangeAnimationState(0);
 		}
@@ -38,7 +38,7 @@ public class PlayerManager : MonoBehaviour {
             ChangeAnimationState(2); // jump
 		}
 
-        if (!collisionState.standing && gameObject.GetComponent<Rigidbody2D>().velocity.y < -0.1f) {
+        if (!collisionState.onGround && gameObject.GetComponent<Rigidbody2D>().velocity.y < -0.1f) {
             walkBehavior.attacking = false;
             ChangeAnimationState(8); // fall
         }
@@ -51,7 +51,7 @@ public class PlayerManager : MonoBehaviour {
             ChangeAnimationState(3); // duck
 		}
 
-		if (!collisionState.standing && collisionState.onWall) {
+		if (!collisionState.onGround && collisionState.onWall) {
             walkBehavior.attacking = false;
             ChangeAnimationState(4); // slide
 		}
