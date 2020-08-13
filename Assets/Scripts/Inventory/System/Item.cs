@@ -21,9 +21,6 @@ public class Item
     public int itemCost;
     public ItemType itemType;
 
-    public Item() {
-    }
-
     public Item(string name, int id, string info, int power, float speed, int cost, ItemType type) {
         itemName = name;
         itemID = id;
